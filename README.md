@@ -176,11 +176,7 @@ Acredito no aprendizado construído na prática: estudar, experimentar, document
 
 <div align="center">
 
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=matheus-22cmd&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4"
-    alt="Conquistas do GitHub"
-    width="100%"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=matheus-22cmd&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="Conquistas do GitHub"/>
 
 </div>
 
@@ -188,34 +184,41 @@ Acredito no aprendizado construído na prática: estudar, experimentar, document
 
 ## `07` — Contribution Snake
 
-<div align="center">
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/matheus-22cmd/matheus-22cmd/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/matheus-22cmd/matheus-22cmd/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="Animação da cobrinha percorrendo o gráfico de contribuições"
-      src="https://raw.githubusercontent.com/matheus-22cmd/matheus-22cmd/output/github-contribution-grid-snake-dark.svg"
-      width="100%"
-    />
-  </picture>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheus-22cmd/matheus-22cmd/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheus-22cmd/matheus-22cmd/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/matheus-22cmd/matheus-22cmd/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 </div>
 
-> **Configuração necessária:** a animação Snake não aparece automaticamente. Você precisa criar um workflow do GitHub Actions para gerar os arquivos SVG e publicá-los na branch `output`. As instruções estão no final deste README.
-
----
 
 ## `08` — Vamos nos conectar?
 
 <div align="center">
 
+  <a href="https://github.com/matheus-22cmd">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
   <a href="https://www.linkedin.com/in/matheus-augusto/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-241044?style=for-the-b!--
-**matheus-22cmd/matheus-22cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/just_another_ton/">
+    <img src="https://img.shields.io/badge/Instagram-7B2FF7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:241044,100:0D0D0D&height=100&section=footer" width="100%" alt="Rodapé roxo"/>
+
+  <sub>Construindo conhecimento, um projeto de cada vez.</sub>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=matheus-22cmd&style=flat-square&color=7B2FF7&label=VISITAS+AO+PERFIL" alt="Contador de visitas"/>
+
+</div>
