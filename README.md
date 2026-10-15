@@ -158,42 +158,8 @@ Acredito no aprendizado construído na prática: estudar, experimentar, document
 
 ---
 
-## `05` — Atividade
 
-<div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=matheus-22cmd&bg_color=0D0D0D&color=E6E6E6&line=7B2FF7&point=A970FF&area=true&area_color=241044&hide_border=true"
-    alt="Gráfico de atividade do GitHub"
-    width="100%"
-  />
-
-</div>
-
----
-
-## `06` — Conquistas
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=matheus-22cmd&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="Conquistas do GitHub"/>
-
-</div>
-
----
-
-## `07` — Contribution Snake
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheus-22cmd/matheus-22cmd/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheus-22cmd/matheus-22cmd/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/matheus-22cmd/matheus-22cmd/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-</div>
-
-
-## `08` — Vamos nos conectar?
+## `05` — Vamos nos conectar?
 
 <div align="center">
 
