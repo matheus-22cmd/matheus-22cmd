@@ -84,11 +84,11 @@ Acredito no aprendizado construído na prática: estudar, experimentar, document
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/matheus-22cmd/Projetos_BI_DIO">
+      <a href="https://github.com/matheus-22cmd/Relatorio_de_Vendas_DIO">
         <img
           src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-22cmd&repo=Projetos_BI_DIO&theme=midnight-purple&hide_border=true&width=400"
           width="400"
-          alt="Projetos de BI — DIO"
+          alt="Relatorio_de_Vendas_DIO"
         />
       </a>
     </td>
