@@ -78,54 +78,60 @@ Acredito no aprendizado construído na prática: estudar, experimentar, document
 ---
 
 ## `03` — Projetos em destaque
-
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/matheus-22cmd/Power-BI---Relatorio-de-Vendas-e-Lucro-detalhado">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-22cmd&repo=Power-BI---Relatorio-de-Vendas-e-Lucro-detalhado&theme=midnight-purple&hide_border=true&width=400"
-          width="400"
-          alt="Power-BI---Relatorio-de-Vendas-e-Lucro-detalhado"
-        />
-      </a>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/matheus-22cmd/Power-BI---Relatorio-de-Vendas-e-Lucro-detalhado">
+          Power BI — Relatório de Vendas
+        </a>
+      </h3>
+      <p>
+        Projeto de Business Intelligence com desenvolvimento de relatório gerencial de vendas e lucro.
+      </p>
+      <sub>Power BI · Business Intelligence · Dados</sub>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/matheus-22cmd/notebooklm-model-processos-gerenciais">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-22cmd&repo=notebooklm-model-processos-gerenciais&theme=midnight-purple&hide_border=true&width=400"
-          width="400"
-          alt="NotebookLM — Processos Gerenciais"
-        />
-      </a>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/matheus-22cmd/notebooklm-model-processos-gerenciais">
+          NotebookLM — Processos Gerenciais
+        </a>
+      </h3>
+      <p>
+        Projeto explorando o uso de inteligência artificial aplicada aos estudos de Processos Gerenciais.
+      </p>
+      <sub>IA · NotebookLM · Processos</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/matheus-22cmd/Dio_ebook_process">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-22cmd&repo=Dio_ebook_process&theme=midnight-purple&hide_border=true&width=400"
-          width="400"
-          alt="Ebook — Processos"
-        />
-      </a>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/matheus-22cmd/Dio_ebook_process">
+          Ebook — Processos
+        </a>
+      </h3>
+      <p>
+        Projeto de curso sobre IA generativa, com desenvolvimento de um ebook utilizando ferramentas de inteligência artificial.
+      </p>
+      <sub>IA Generativa · Produção de conteúdo</sub>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/matheus-22cmd/DIO_podcast_process">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-22cmd&repo=DIO_podcast_process&theme=midnight-purple&hide_border=true&width=400"
-          width="400"
-          alt="Podcast — Processos"
-        />
-      </a>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/matheus-22cmd/DIO_podcast_process">
+          Podcast — Processos
+        </a>
+      </h3>
+      <p>
+        Atividade desenvolvida durante o curso de IA da DIO.
+      </p>
+      <sub>IA · Podcast · DIO</sub>
     </td>
   </tr>
 </table>
 
 </div>
-
 ---
 
 ## `04` — Estatísticas do GitHub
