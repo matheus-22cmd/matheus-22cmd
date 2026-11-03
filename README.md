@@ -132,8 +132,8 @@ Acredito no aprendizado construído na prática: estudar, experimentar, document
 </table>
 
 </div>
----
 
+---
 ## `04` — Estatísticas do GitHub
 
 <div align="center">
